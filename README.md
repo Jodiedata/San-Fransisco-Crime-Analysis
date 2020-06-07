@@ -1,2 +1,2 @@
-# San-Fransisco-Crime-Analysis
+# San-Francisco-Crime-Analysis
 Spark
